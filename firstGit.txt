@@ -1,2 +1,6 @@
 git is a version control system
 git is a free software.
+hello nice to meet you 
+    I'm Maotao ,I'm honored to have this optunity for an interview.
+I was interviewing intership for java development.I studied in Taiyuan institude of technology.
+Majored in computer science and technology.
